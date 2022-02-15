@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Murali Yeddanapudi
-email: .myfullname.@gmail.com
+email: myfullname@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 domain: muraliyeddanapudi.github.io  # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "https://muraliyeddanapudi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
