@@ -17,7 +17,6 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "github-pages", "~> 223"
   gem "jekyll-feed", "~> 0.12"
-	gem "jekyll-katex"
 	gem "jekyll-scholar"
 	gem "jekyll-sitemap"
   gem "jekyll-mermaid"

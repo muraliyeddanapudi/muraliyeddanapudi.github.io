@@ -1,11 +1,24 @@
 {
     "cSpell.words": [
+        "cout",
+        "disqus",
         "endkatexmm",
+        "endl",
+        "Gundersen",
+        "iostream",
         "katex",
         "katexmm",
+        "Lansdell's",
+        "mathjax",
         "Murali",
         "muraliyeddanapudi",
         "myfullname",
+        "STIX",
+        "xmlschema",
         "Yeddanapudi"
+    ],
+    "cSpell.ignoreWords": [
+        "ctlr",
+        "plnt"
     ]
 }

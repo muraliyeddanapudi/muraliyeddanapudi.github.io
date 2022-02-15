@@ -26,22 +26,15 @@ url: "https://muraliyeddanapudi.github.io" # the base hostname & protocol for yo
 baseurl: "" # the subpath of your site, e.g. /blog
 #twitter_username:
 #github_username: muraliyeddanapudi
+markdown: kramdown
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-katex
   - jekyll-mermaid
   - jekyll-scholar
   - jekyll-sitemap
-
-katex:
-  js_path: "assets/js"  # Path used to search for katex.min.js
-  rendering_options:
-    # Default KaTeX rendering options. See https://github.com/Khan/KaTeX#rendering-options
-    throw_error: false      # throwOnError - set to false if you want rendering to output error as text rather than a build error
-    error_color: "#cc0000"  # errorColor
 
 mermaid:
   src: 'assets/js' # path used to search for mermaid.js
