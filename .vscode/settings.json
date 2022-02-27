@@ -14,8 +14,11 @@
         "muraliyeddanapudi",
         "myfullname",
         "STIX",
+        "timeseries",
+        "tsplot",
         "xmlschema",
-        "Yeddanapudi"
+        "Yeddanapudi",
+        "ylim"
     ],
     "cSpell.ignoreWords": [
         "ctlr",
